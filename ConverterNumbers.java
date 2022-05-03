@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class Main {
+public class ConverterNumbers {
     public static void main(String[] args) {
         while (true) {
             System.out.println("Enter two numbers in format: {source base} {target base} (To quit type /exit)");
